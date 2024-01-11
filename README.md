@@ -1,0 +1,2 @@
+# Bank Account Management System #
+This project is a console application using C++. This application enables the user to perform the basic banking transactions by sitting at their office or at homes through PC or laptop. The system provides the access to the user to create an account, deposit/withdraw the cash from accounts, also to view reports of all accounts present. Only the user can access the banking application for viewing customer’s Account details and perform the transactions on account as per their requirements.
